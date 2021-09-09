@@ -1,8 +1,9 @@
-### Hi there 👋
+### Hi there, i'm Murilo 👋
 
 - 📚 I’m currently learning: HTML and CSS
 - ⏳ I want to learn about: ReactJs, AngularJs, Illustrator and PhotoShop
 - 📜 Certifications: JavaScript[basic], Game Design[basic], Hardware[basic]
+- ✨ My goal is to be a full stack programmer
 ##
 <div style='display: inline_block'> <br>
   <img align='center' alt='Murilo-Js' height='40' width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'>

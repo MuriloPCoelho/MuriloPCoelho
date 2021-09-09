@@ -14,5 +14,7 @@
   <img align='center' alt='Murilo-GitHub' height='40' width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg'>
   
  ##
-  ![Murilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Murilo&show_icons=false&theme=dark)
+  ![MuriloPCoelho's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuriloPCoelho&show_icons=false&theme=dark)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloPCoelho&layout=compact)](https://github.com/MuriloPCoelho/github-readme-stats)
+
 

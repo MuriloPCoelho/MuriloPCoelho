@@ -1,5 +1,6 @@
 ### Hi there, i'm Murilo 👋
 
+- 🐣 07/14/2001
 - 📚 I’m currently learning: HTML and CSS
 - ⏳ I want to learn about: ReactJs, AngularJs, Illustrator and PhotoShop
 - 📜 Certifications: JavaScript[basic], Game Design[basic], Hardware[basic]

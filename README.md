@@ -12,3 +12,7 @@
   <img align='center' alt='Murilo-CSS' height='40' width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'>
   <img align='center' alt='Murilo-Git' height='40' width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg'>
   <img align='center' alt='Murilo-GitHub' height='40' width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg'>
+  
+ ##
+  ![Murilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Murilo&show_icons=false&theme=dark)
+

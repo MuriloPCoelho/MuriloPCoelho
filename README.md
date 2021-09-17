@@ -8,7 +8,7 @@
 ##
 ### Social:
 <div style='dysplay: inline_block'>
-<a href='https://www.linkedin.com/in/murilo-pereira-coelho-081515220/'><img align='center' alt='Murilo-linkedin' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>
+<a href='https://www.linkedin.com/in/murilo-pereira-coelho-081515220/' target='_blank'><img align='center' alt='Murilo-linkedin' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' target='_blank'></a>
                                                                                                                                              
 ##
 ### Technologies:

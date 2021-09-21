@@ -5,6 +5,7 @@
 - ⏳ I want to learn about: ReactJs, AngularJs, Illustrator and PhotoShop
 - 📜 Certifications: JavaScript[basic], Game Design[basic], Hardware[basic]
 - ✨ My goal is to be a full stack programmer
+- 👨‍🎓 Currently attending analysis and systems development at QI college and technical courses
 ##
 ### Social:
 <div style='dysplay: inline_block'>

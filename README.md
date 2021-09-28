@@ -10,7 +10,7 @@
 ### Social:
 <div style='dysplay: inline_block'>
   <a href='https://www.linkedin.com/in/murilo-pereira-coelho-081515220/'><img align='center' alt='Murilo-Linkedin' height='30' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>
-  <a href='mailto: murilopc14@hotmail.com'><img align='center' alt='Murilo-Email' height='30' src='https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-thebadge&logo=microsoft-outlook&logoColor=white'></a>
+  <a href='mailto: murilopc14@hotmail.com' target='_blank'><img align='center' alt='Murilo-Email' height='30' src='https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-thebadge&logo=microsoft-outlook&logoColor=white'></a>
 </div>
                                                                                                                                              
 ##

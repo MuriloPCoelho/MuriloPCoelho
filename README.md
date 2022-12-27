@@ -23,7 +23,6 @@
 </div>
   
  ##
-  ![MuriloPCoelho's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuriloPCoelho&show_icons=false&theme=dark)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloPCoelho&layout=compact)](https://github.com/MuriloPCoelho/github-readme-stats)
 
 

@@ -1,8 +1,8 @@
 ### Hi there, i'm Murilo 👋
 
 - 🐣 07/14/2001
-- 📚 I’m currently learning: HTML and CSS
-- ⏳ I want to learn about: ReactJs, AngularJs, Nodejs + Express, SQL, Illustrator and PhotoShop
+- 📚 I’m currently learning: Front-end
+- ⏳ I want to learn about: ReactJs, Nodejs + Express, noSQL, Illustrator and PhotoShop
 - 📜 Certifications: JavaScript[basic], Game Design[basic], Hardware[basic]
 - ✨ My goal is to be a full stack programmer
 - 👨‍🎓 Currently attending analysis and systems development at QI college and technical courses

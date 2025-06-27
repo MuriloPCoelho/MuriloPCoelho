@@ -52,3 +52,4 @@ I'm a passionate and curious fullstack developer. I enjoy building modern applic
 ### 📚 Currently Learning
 - 🐿️ Golang
 - 🐘 PostgreSQL
+- 🌎 English

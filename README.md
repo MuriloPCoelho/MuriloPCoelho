@@ -1,6 +1,6 @@
 ### Hi there, i'm Murilo 👋
 
-🎯 **Junior Fullstack Developer**  
+🎯 **Fullstack Developer**  
 📍 Canoas, Rio Grande do Sul – Brazil  
 🐣 Born on 14/07/2001  
 👨‍🎓 Graduated in **Systems Analysis and Development**   

@@ -44,7 +44,7 @@ I'm a passionate and curious fullstack developer. I enjoy building modern applic
 
 ###
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MuriloPCoelho&locale=en&hide_title=false&layout=compact&card_width=420&langs_count=6&theme=react&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MuriloPCoelho&locale=en&hide_title=false&layout=compact&card_width=420&langs_count=6&theme=react&hide_border=false&hide=html,css,scss" height="150" alt="languages graph"  />
 </div>
 
 ##

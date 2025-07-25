@@ -13,7 +13,7 @@
 
 I'm a passionate and curious fullstack developer. I enjoy building modern applications, exploring new technologies, and constantly improving my skills.
 
-✨ My goal is to become a **senior fullstack developer**.
+✨ My goal is to become a **great developer**.
 
 ##
 

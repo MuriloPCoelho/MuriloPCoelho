@@ -53,3 +53,5 @@ I'm a passionate and curious fullstack developer. I enjoy building modern applic
 - 🐿️ Golang
 - 🐘 PostgreSQL
 - 🌎 English
+
+### ⭐ Thanks for visit my profile!
